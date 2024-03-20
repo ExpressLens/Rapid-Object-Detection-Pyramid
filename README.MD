@@ -7,3 +7,4 @@ This repository houses ExpressLens's implementation of the object detection meth
 The implementation has been carried out using C++. The used structures include Random Forest and Boosted Decision Trees. The performance has been measured and found to be on par with the results mentioned in the paper (Random Forest: 14fps, Boosted Trees: 18fps). Additionally, ACF feature has been used.
 
 ## Results
+The detection system has been tested on pedestrians and the results are promising. The ground truth is illustrated in green and the detected pedestrians in blue.
