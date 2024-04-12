@@ -8,3 +8,5 @@ The implementation has been carried out using C++. The used structures include R
 
 ## Results
 The detection system has been tested on pedestrians and the results are promising. The ground truth is illustrated in green and the detected pedestrians in blue.
+
+![acf](https://cloud.githubusercontent.com/assets/13601723/15353065/21459712-1d22-11e6-89b0-e46d5676dafe.png)
